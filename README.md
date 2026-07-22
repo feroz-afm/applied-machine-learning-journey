@@ -4,4 +4,4 @@ This repository documents my step-by-step machine learning learning journey and 
 Tools used include NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, and PyTorch.It also includes end-to-end practical projects focused on real-world datasets and performance metrics.
 
 Maintained by @mdferozahmedafm as an open repository for continuous learning and skill tracking.
-Repository Link: https://github.com/feroz-afm/machine-learning-roadmap
+Repository Link: https://github.com/feroz-afm/applied-machine-learning-journey
