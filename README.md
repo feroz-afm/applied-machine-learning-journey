@@ -1,5 +1,5 @@
 # Applied Machine Learning Journey
-
+ 
 Welcome to **Applied Machine Learning Journey**, a structured repository that documents my learning path in Machine Learning, Data Science, and Artificial Intelligence through practical implementation and real-world projects.
 
 This repository is designed to serve as both a learning roadmap and a practice hub. It contains organized notebooks, implementation examples, detailed notes, and end-to-end projects that demonstrate the concepts and techniques used in modern Machine Learning workflows.
@@ -81,7 +81,7 @@ This repository is maintained as part of my continuous learning journey. Suggest
 
 ## Maintainer
 
-**Md. Feroz Ahmed**
+**Md Feroz Ahmed**
 
 GitHub: https://github.com/feroz-afm
 
